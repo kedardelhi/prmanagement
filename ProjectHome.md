@@ -1,0 +1,1 @@
+PHP based system for running a retail store. Stock tracking, employee management, even a web frontend to do online retailing from the same system.
